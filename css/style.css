@@ -236,9 +236,6 @@ h6 {
   overflow: hidden;
   white-space: nowrap;
   
-  animation: typing 3s steps(29) forwards,
-              blink-caret .8s step-end infinite;
-  animation-iteration-count: infinite;
 }
 
 @keyframes blink-caret{
